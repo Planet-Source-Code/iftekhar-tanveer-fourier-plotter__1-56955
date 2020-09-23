@@ -1,0 +1,1 @@
+This is a program to plot periodic functions using fourier series when the equation of a0, an and bn is given. You can also use VBScript here to specify constants, conditions etc. It can also plot any explicit function of x. It is not only a tool to plot Fourier Series but also to  learn about its(Fouries Series) differents properties.
